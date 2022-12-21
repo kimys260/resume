@@ -1,2 +1,2 @@
-# resume
-kimhakmin resume repository
+# 이력서
+안녕하세요 김학민의 이력서입니다.
