@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "$components/*": ["pages/*"],
+      "$contexts/*": ["contexts/*"],
+      "$hooks/*": ["hooks/*"]
+    }
+  },
+  "include": ["./src/**/*.ts"]
+}
